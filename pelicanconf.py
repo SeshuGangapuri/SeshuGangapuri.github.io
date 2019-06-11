@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'attetta'
-SITENAME = 'attetta'
+AUTHOR = 'seshu'
+SITENAME = 'seshu'
 SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
